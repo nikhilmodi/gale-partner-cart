@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gale-partner-cart/static/css/main.c631adb0.chunk.css",
+    "main.js": "/gale-partner-cart/static/js/main.149b154a.chunk.js",
+    "main.js.map": "/gale-partner-cart/static/js/main.149b154a.chunk.js.map",
+    "runtime-main.js": "/gale-partner-cart/static/js/runtime-main.7589a08f.js",
+    "runtime-main.js.map": "/gale-partner-cart/static/js/runtime-main.7589a08f.js.map",
+    "static/js/2.5ca523f0.chunk.js": "/gale-partner-cart/static/js/2.5ca523f0.chunk.js",
+    "static/js/2.5ca523f0.chunk.js.map": "/gale-partner-cart/static/js/2.5ca523f0.chunk.js.map",
+    "static/js/3.e81896c0.chunk.js": "/gale-partner-cart/static/js/3.e81896c0.chunk.js",
+    "static/js/3.e81896c0.chunk.js.map": "/gale-partner-cart/static/js/3.e81896c0.chunk.js.map",
+    "index.html": "/gale-partner-cart/index.html",
+    "static/css/main.c631adb0.chunk.css.map": "/gale-partner-cart/static/css/main.c631adb0.chunk.css.map",
+    "static/js/2.5ca523f0.chunk.js.LICENSE.txt": "/gale-partner-cart/static/js/2.5ca523f0.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/gale-partner-cart/static/media/Montserrat-Thin.53139ad3.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7589a08f.js",
+    "static/js/2.5ca523f0.chunk.js",
+    "static/css/main.c631adb0.chunk.css",
+    "static/js/main.149b154a.chunk.js"
+  ]
+}
