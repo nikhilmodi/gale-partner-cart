@@ -1,3 +1,6 @@
+This is a simple cart application, where user can increment, decrement and delete the product.
+User can also get the availability of Cash on Deliviery and Shipping Charges.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
